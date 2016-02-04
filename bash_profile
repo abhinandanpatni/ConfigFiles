@@ -10,8 +10,6 @@ export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 alias ls='ls -GFp'
 alias bashrc='vim ~/.bash_profile; source ~/.bash_profile'
-alias sem3='cd /Users/abhinandanpatni/Documents/USC/Sem3'
-alias desktop='cd ~/Desktop'
 alias subl='open -a /Applications/Sublime\ Text\ 2.app/'
 
 function create(){
